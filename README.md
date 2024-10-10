@@ -5,7 +5,7 @@ Software Engineer & Web Devloper
 --------------------------------
 
 * ✉️  You can contact me at [barhambaper6@gmail.com](mailto:barhambaper6@gmail.com)
-* 🚀  I'm currently working on [sleeping](http://sleeping) & RE:CODED student 
+* 🚀  I'm currently working on [sleeping](http://sleeping)  
 * 🧠  I'm learning New things
 * ⚡  im nobody
 

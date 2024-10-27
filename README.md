@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Barham
 ==============================================================================================================================
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
 
 Software Engineer & Web Devloper
 --------------------------------

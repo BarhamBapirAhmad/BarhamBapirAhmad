@@ -22,7 +22,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am
                 <b><a target="_blank" href="https://BarhamBapirAhmad.com">BarhamBapir</a></b>
         </samp>
 </h3>
@@ -136,12 +136,4 @@
 </ul> 
 
 
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/BarhamBapirAhmad"><img src="https://github-readme-stats.vercel.app/api?username=BarhamBapirAhmad&show_icons=true&hide=prs,contribs&title_color=10b981&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="BarhamBapirAhmad's GitHub stats" /></a>
-
-<a href="http://www.github.com/BarhamBapirAhmad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BarhamBapirAhmad&stroke=facc15&background=0f172a&ring=10b981&fire=10b981&currStreakNum=facc15&currStreakLabel=10b981&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-<a href="https://github.com/BarhamBapirAhmad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarhamBapirAhmad&langs_count=10&title_color=10b981&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ 

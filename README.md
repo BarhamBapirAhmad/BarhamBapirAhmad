@@ -14,7 +14,7 @@
  
 
 <a href="https://komarev.com/ghpvc/?username=BarhamBapirAhmad">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Baham-Bapir-Ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=Baham-Bapir-Ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
  
 <!-- Intro  -->

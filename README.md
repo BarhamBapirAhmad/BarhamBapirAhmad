@@ -122,3 +122,26 @@
 
 
 ![Barhams's Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarhamBapirAhmad&custom_title=Barham%20Bapir's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+
+
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/barhambapir"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul> 
+
+
+
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/BarhamBapirAhmad"><img src="https://github-readme-stats.vercel.app/api?username=BarhamBapirAhmad&show_icons=true&hide=prs,contribs&title_color=10b981&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="BarhamBapirAhmad's GitHub stats" /></a>
+
+<a href="http://www.github.com/BarhamBapirAhmad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BarhamBapirAhmad&stroke=facc15&background=0f172a&ring=10b981&fire=10b981&currStreakNum=facc15&currStreakLabel=10b981&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+
+<a href="https://github.com/BarhamBapirAhmad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarhamBapirAhmad&langs_count=10&title_color=10b981&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

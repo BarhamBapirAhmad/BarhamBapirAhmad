@@ -36,10 +36,7 @@
   </samp>
 </p>
 
-<p align="center">
- <a href="https://BarhamBapirAhmad.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="BarhamBapirAhmad" />
- </a>
+  
  <a href="[https://linkedin.com/in/al-siam](https://github.com/BarhamBapirAhmad)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="BarhamBapirAhmad"/>
  </a>

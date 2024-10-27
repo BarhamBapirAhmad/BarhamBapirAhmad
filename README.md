@@ -22,16 +22,16 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://BarhamBapirAhmad.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://BarhamBapirAhmad.com">BarhamBapir</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=BarhamBapirAhmed">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>Iraq-KRI</b> 」
     <br>
     <br>
   </samp>
@@ -67,7 +67,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: BarhamBapirAhmad.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: barhambaper6@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/BarhamBapirAhmad/BarhamBapirAhmad/issues)
 
 </p>
@@ -102,10 +102,8 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=BarhamBapirAhmad&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BarhamBapirAhmad/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=BarhamBapirAhmad&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BarhamBapirAhmad/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=BarhamBapirAhmad&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BarhamBapirAhmad/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=BarhamBapirAhmad&repo=BarhamBapirAhmad&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BarhamBapirAhmad/BarhamBapirAhmad)
+[![Capstone Project - JobConnect](https://github-readme-stats.vercel.app/api/pin/?username=BarhamBapirAhmad&repo=capstone-project-JobConnect&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BarhamBapirAhmad/capstone-project-JobConnect)
+[![Pluto Movie Project](https://github-readme-stats.vercel.app/api/pin/?username=BarhamBapirAhmad&repo=Pluto-Movie-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BarhamBapirAhmad/Pluto-Movie-Project)
 
 <p align="left">
   <a href="https://github.com/BarhamBapirAhmad?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -134,4 +132,4 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarhamBapirAhmad&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Barhams's Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarhamBapirAhmad&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)

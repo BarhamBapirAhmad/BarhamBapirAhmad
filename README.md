@@ -96,9 +96,8 @@
 <br/>
 <hr/>
 <br/>
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BarhamBapirAhmad&theme=algolia&no-frame=true&no-bg=false&margin-w=15)
-
+ (https://github-profile-trophy.vercel.app/?username=BarhamBapirAhmad&theme=algolia&no-frame=true&no-bg=false&margin-w=15)
+ 
 <p align="center">
   <a href="https://github.com/BarhamBapirAhmad">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarhamBapirAhmad&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>

@@ -121,6 +121,7 @@
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BarhamBapirAhmad&theme=matrix&no-frame=true&no-bg=false&margin-w=15)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BarhamBapirAhmad&theme=dracula&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Support Me
